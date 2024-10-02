@@ -1,4 +1,10 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+START
+Check if the user is logged in
+IF logged in
+    Display user dashboard
+ELSE
+    Display login page
+END
