@@ -2,3 +2,13 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+START
+Set variable 'i' to 1
+WHILE 'i' is less than or equal to 5
+    Print 'i'
+    Increment 'i' by 1
+if 'i' is more or equal to 10
+  Print 'i' 
+  Increment by 1
+END WHILE
+END
